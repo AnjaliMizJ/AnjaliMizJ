@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalimizj&label=Profile%20views&color=0e75b6&style=flat" alt="anjalimizj" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
+
 - 💬 Ask me about **Android, Machine Learning**
 
 - 📫 How to reach me **Anjaliannu100@gmail.com**
