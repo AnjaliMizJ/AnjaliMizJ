@@ -27,15 +27,15 @@
 
 <h1 align="left">Publications:</h1>
 <p align="left">
-- <a href="https://www.researchgate.net/profile/Nilima_Salankar/publication/337831769_Functional_Connectivity_and_Classification_of_Actual_and_Imaginary_Motor_Movement/links/5e3d4003299bf1cdb91512de/Functional-Connectivity-and-Classification-of-Actual-and-Imaginary-Motor-Movement.pdf" target="blank"><h4 align="left">Functional Connectivity and Classification of Actual and Imaginary Motor Movement</h4>
+<a href="https://www.researchgate.net/profile/Nilima_Salankar/publication/337831769_Functional_Connectivity_and_Classification_of_Actual_and_Imaginary_Motor_Movement/links/5e3d4003299bf1cdb91512de/Functional-Connectivity-and-Classification-of-Actual-and-Imaginary-Motor-Movement.pdf" target="blank"><h4 align="left">Functional Connectivity and Classification of Actual and Imaginary Motor Movement</h4>
  </a>
  
- - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3527262" target="blank"><h4 align="left">Statistical Feature Selection Approach for Classification of Emotions from Speech</h4></a>
+ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3527262" target="blank"><h4 align="left">Statistical Feature Selection Approach for Classification of Emotions from Speech</h4></a>
  
 </p>
 
 
-- <p align="left">
+<p align="left">
 <a href="https://ieeexplore.ieee.org/abstract/document/8701306" target="blank"><h4 align="left">Designing an Expert System for Online Shopping Cart Management</h4></a>
  
 </p>
