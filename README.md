@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
-<h3 align="center">I am a tech girl with the passion to learn more and get experience in the domain of Data Analytics, DaTa SciEncE, Machine Learning, Android. It is fun to learn that how writing some lines can make the process happening for you!!.</h3>
+<h3 align="center">Unleashing insights from raw data and turning numbers into narratives. As a data analyst, I transform information into actionable intelligence. Let's dive into the data-driven journey together! 📊✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalimizj&label=Profile%20views&color=0e75b6&style=flat" alt="anjalimizj" /> </p>
 
