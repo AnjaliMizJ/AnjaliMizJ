@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="" target="_blank"> <img src="https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  </p>
+<p align="left">   <a href="" target="_blank"> <img src="https://1.bp.blogspot.com/-X5OBU37Ims4/XQexxebsV0I/AAAAAAAAD80/PlMIGUQBY3YwRugZNLvdRaI2Pw_g0jIlgCLcBGAs/s1600/Python%2BProgramming%2BLogo.png" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://media.instamojo.com/imgs/6867ce73890545e68853ba1f00c71496.jpg" alt="sql" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" alt="tableau" width="40" height="40"/> </a> <a  target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="scikit_learn" width="40" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalimizj&show_icons=true&locale=en&layout=compact" alt="anjalimizj" /></p>
 
