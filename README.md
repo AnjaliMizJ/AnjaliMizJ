@@ -4,11 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 
-- 💬 Ask me about **SQL, Tableau, PowerBI**
+- 💬 Ask me about **Python, SQL, Tableau, PowerBI**
 
 - 📫 How to reach me **Anjaliannu100@gmail.com**
 
-- ⚡ Fun fact **Love Painting, nature photography, reading books**
+- ⚡ Fun fact **Love Painting, nature photography, reading books** <a href="https://www.instagram.com/anjaliartsstudio/" target="blank"><h4 align="left"> sneak peek 😄</h4>
+ </a>
+     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
